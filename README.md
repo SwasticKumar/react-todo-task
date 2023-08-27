@@ -34,10 +34,6 @@ A simple yet efficient ToDo Task Management application built using React and Bo
 3. Run `npm start` to start the development server and open the app in your browser.
 
 
-## Screenshots
-
-![Screenshot 1](../to-do-app/public/image/todo-list.png)
-
 
 ## Contributions
 
