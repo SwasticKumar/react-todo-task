@@ -36,7 +36,7 @@ A simple yet efficient ToDo Task Management application built using React and Bo
 
 ## Screenshots
 
-![Screenshot 1](/image/todo-list.png)
+![Screenshot 1](../to-do-app/public/image/todo-list.png)
 
 
 ## Contributions
