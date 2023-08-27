@@ -96,7 +96,7 @@ function App() {
       <div className="container mt-md-5">
         
         <h1 className="text-center mt-2 text-success" id="tittle">
-          My todo List
+          My Todo List
         </h1>
         <form>
           <div className="input-group mb-3">

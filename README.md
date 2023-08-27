@@ -1,8 +1,52 @@
-# React + Vite
+# ToDo Task Management App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple yet efficient ToDo Task Management application built using React and Bootstrap.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Table of Contents
+
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [Screenshots](#screenshots)
+- [Contributions](#contributions)
+- [License](#license)
+
+
+## Features
+
+- Add tasks with a name and description
+- Mark tasks as completed or not completed
+- Edit task details
+- Delete tasks from the list
+- Responsive design using Bootstrap for a seamless experience across devices
+
+
+## Technologies Used
+
+- React: A JavaScript library for building user interfaces
+- Bootstrap: A popular CSS framework for responsive and visually appealing designs
+
+## Getting Started
+
+1. Clone this repository to your local machine.
+2. Run `npm install` to install the required dependencies.
+3. Run `npm start` to start the development server and open the app in your browser.
+
+
+## Screenshots
+
+![Screenshot 1](/image/todo-list.png)
+
+
+## Contributions
+
+Contributions are welcome! If you'd like to contribute to the project, please follow the standard GitHub fork and pull request workflow.
+
+## License
+
+This project is licensed under the [MIT License](/LICENSE).
+
+
+Feel free to explore the code and use it as a learning resource or as a starting point for your own task management projects.
+
