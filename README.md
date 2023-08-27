@@ -39,10 +39,14 @@ A simple yet efficient ToDo Task Management application built using React and Bo
 
 Contributions are welcome! If you'd like to contribute to the project, please follow the standard GitHub fork and pull request workflow.
 
+## Technologies Used
+React vite
+Bootstrap
+
+## Nelify Deployed Website
+
+Netlify Link- https://react-todo-card-task.netlify.app/ 
+
 ## License
 
 This project is licensed under the [MIT License](/LICENSE).
-
-
-Feel free to explore the code and use it as a learning resource or as a starting point for your own task management projects.
-
